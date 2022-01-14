@@ -8,7 +8,7 @@ public class Employee {
     String department;
 
     Employee(int id2, String sn, int a, double s, String d) {
-        int id = id2;
+        id = id2;
         surname = sn;
         age = a;
         salary = s;
