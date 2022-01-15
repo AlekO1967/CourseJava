@@ -3,12 +3,10 @@ package Homework_6;
 public class MethodOverloading {
 
     int summ() {
-        int result = 0;
-        return result;
+        return 0;
     }
 
     int summ(int i1) {
-        int result = i1;
         return i1;
     }
 
