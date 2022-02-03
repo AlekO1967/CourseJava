@@ -2,8 +2,8 @@
 package Homework_7_1;
 
 import Homework_7.Employee;
-//Переменная privat salary видна только в пределах класса Employee, в пределах пакета её не видно, в классе EmployeeNewClass
-// переменная privat salary не видна.
+//Переменная private salary видна только в пределах класса Employee, в пределах пакета её не видно, в классе EmployeeNewClass
+// переменная private salary не видна.
 // Переменная int id с дефолтным модификатором доступа видна только в пределах пакета Lesson_7, в пакете Lesson_7_1
 // переменная int id с дефолтным модификатором доступа не видна.
 class Employee1 {
